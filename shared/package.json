@@ -1,0 +1,16 @@
+{
+  "name": "@lazydesk/shared",
+  "version": "1.0.0",
+  "description": "Shared types and validation schemas for LazyDesk AI",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}

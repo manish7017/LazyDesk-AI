@@ -1,0 +1,6 @@
+INVOICE #2026-081
+Date: 2026-08-15
+Client: Acme Corp
+Amount: ,250.00
+Status: Pending Payment
+Description: Frontend UI design and testing.
